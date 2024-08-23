@@ -1,6 +1,6 @@
 # snap_qr
 
-A new Flutter project.
+SnapQR is a QR code generator and scanner done using flutter_bloc state management and architecture
 
 ## Getting Started
 
